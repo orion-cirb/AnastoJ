@@ -22,9 +22,9 @@
 * Segment protrusions in MIP 2nd channel 
 * For each detected pore:
 
- - Use the 3D watershed Split algorithm and detect the anastomosis between pores
+   Use the 3D watershed Split algorithm and detect the anastomosis between pores
       
- - Run skeletonization filter branches by size and retrieve: length, total length, euclidean distance, total euclidean distance, branches, junctions, endpoints and number of filtered branches   
+   Run skeletonization filter branches by size and retrieve: length, total length, euclidean distance, total euclidean distance, branches, junctions, endpoints and number of filtered branches   
 
 ### Dependencies
 
