@@ -1,4 +1,4 @@
-# ProtruJ_Morphometrics
+# AnastoJ
 
 * **Developed by:** Thomas 
 * **Developed for:** Laurent & Emmanuelle
